@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning "**sass**"
 
-- 💬 Ask me about "**JavaScript , front-end programming**"
+- 💬 Ask me about "**JavaScript"** , **"front-end programming**"
 
 - 📫 How to reach me **shfqaen@gmail.com**
 
