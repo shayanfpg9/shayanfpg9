@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm [shayan](https://github.com/shayanfpg9)</h1>
-<h3 align="center">funny JS programmer</h3>
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/shayanfpg9">shayan</a></h1>
+<h3 align="center">JS programmer</h3>
 
-- 🌱 I’m currently learning **sass**
+- 🌱 I’m currently learning "**sass**"
 
-- 💬 Ask me about **JavaScript , front-end programming**
+- 💬 Ask me about "**JavaScript , front-end programming**"
 
 - 📫 How to reach me **shfqaen@gmail.com**
 
-- ⚡ Fun fact **i very love JS**
+- ⚡ Fun fact "**i very love JS**"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
