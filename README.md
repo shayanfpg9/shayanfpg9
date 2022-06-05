@@ -1,3 +1,5 @@
+<img align="center" style="width:100vw;" src="https://www.inithtml.com/wp-content/uploads/2017/04/javascript.jpg">
+
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/shayanfpg9">shayan</a></h1>
 <h3 align="center">JS programmer</h3>
 
