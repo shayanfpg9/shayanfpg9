@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/shayanfpg9">shayan</a></h1>
 <h3 align="center">JS programmer</h3>
 
-- 🌱 I’m currently learning "**bootstrap 5.2**"
+- 🌱 I’m currently learning "**TypeScript**"
 
 - 💬 Ask me about "**JavaScript"** , **"front-end programming**"
 
