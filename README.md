@@ -1,6 +1,6 @@
 <img align="center" style="width:100vw;" src="https://www.inithtml.com/wp-content/uploads/2017/04/javascript.jpg">
 
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/shayanfpg9">shayan</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://shayanfpg9.github.io/shayanfpg9">shayan</a></h1>
 <h3 align="center">JS programmer</h3>
 
 - 🌱 I’m currently learning "**TypeScript**"
