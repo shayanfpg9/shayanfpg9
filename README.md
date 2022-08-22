@@ -48,10 +48,3 @@
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/3b9cfa979112edd2f4ab07791da38ea3ec85ad6cc8e7978862c712969d5b9c0c/68747470733a2f2f7777772e696e697468746d6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30342f6a6176617363726970742e6a7067"  />
 
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/shayanfpg9/shayanfpg9/blob/output/snake.svg" alt="Snake animation" />
-
-###
