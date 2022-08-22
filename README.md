@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is shayan and I'm a front-end developer, from Iran</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -9,18 +9,16 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" src="https://profile-counter.glitch.me/shayanfpg9/count.svg?"  />
-
-###
-
 <div align="left">
   <a href="mailto:shfqaen@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://camo.githubusercontent.com/3b9cfa979112edd2f4ab07791da38ea3ec85ad6cc8e7978862c712969d5b9c0c/68747470733a2f2f7777772e696e697468746d6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30342f6a6176617363726970742e6a7067"  />
 
 ###
 
@@ -46,5 +44,4 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/3b9cfa979112edd2f4ab07791da38ea3ec85ad6cc8e7978862c712969d5b9c0c/68747470733a2f2f7777772e696e697468746d6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30342f6a6176617363726970742e6a7067"  />
-
+<img align="right" src="https://profile-counter.glitch.me/shayanfpg9/count.svg?"  />
