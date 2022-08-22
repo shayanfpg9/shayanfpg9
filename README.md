@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
 </div>
 
+<img align="right" src="https://profile-counter.glitch.me/shayanfpg9/count.svg?"  />
+
 ###
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/3b9cfa979112edd2f4ab07791da38ea3ec85ad6cc8e7978862c712969d5b9c0c/68747470733a2f2f7777772e696e697468746d6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30342f6a6176617363726970742e6a7067"  />
@@ -41,7 +43,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" width="42" alt="aftereffects logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
 </div>
-
-###
-
-<img align="right" src="https://profile-counter.glitch.me/shayanfpg9/count.svg?"  />
