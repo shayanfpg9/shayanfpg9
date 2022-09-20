@@ -2,9 +2,14 @@
 
 <br>
 
-<h1 align="center">Hi 👋! My name is shayan and I'm a front-end developer, from Iran</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=25&pause=1000&color=64FD02&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+%F0%9F%91%8B;I'm+shayan+a+front-end+developer)](https://git.io/typing-svg)
+
+</div>
 
 ## about me:
+
 I'm a student of Hasheminezhad 4 high school;
 <br>
 I start programming when I was 11 years old,
@@ -20,6 +25,9 @@ I learned new things with opensource :heart:
 ## you can contact me with:
 
 <div align="left">
+  I love to meet new peoples :smile:
+  <br>
+  <br>
   <a href="mailto:shfqaen@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -28,7 +36,9 @@ I learned new things with opensource :heart:
   </a>
 </div>
 
-> I love to meet new peoples :smile:
+<br>
+
+## today I foucs into **TypeScript** ![ts](https://skillicons.dev/icons?i=typescript)
 
 <br>
 
@@ -43,6 +53,7 @@ I learned new things with opensource :heart:
 <br>
 
 ## am I active ?
+
 you can decide about it with:
 
 <div align="center">
