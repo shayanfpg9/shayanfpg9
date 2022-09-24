@@ -14,11 +14,11 @@ I'm a student of Hasheminezhad 4 high school;
 <br>
 I start programming when I was 11 years old,
 <br>
-but before that I work with photoshop for 2 years,
+but before that I worked with photoshop for 2 years,
 <br>
-so I love computer and I love to connect all the ellectrical thing together.
+so I love computer and I love to connect all the ellectrical things together.
 <br>
-I learned new things with opensource :heart:
+I have been learned new things with opensource :heart:
 
 <br>
 
