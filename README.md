@@ -38,7 +38,7 @@ I have been learned new things with opensource :heart:
 
 <br>
 
-## today I foucs into **TypeScript** ![ts](https://skillicons.dev/icons?i=typescript)
+## today I foucs into **webpack** ![webpack](https://skillicons.dev/icons?i=webpack)
 
 <br>
 
