@@ -22,6 +22,11 @@ I have been learned new things with opensource :heart:
 
 <br>
 
+## in other networks
+virgool: [@shayanfpg9](https://virgool.io/@shayanfpg9/)
+
+<br>
+
 ## you can contact me with:
 
 <div align="left">
