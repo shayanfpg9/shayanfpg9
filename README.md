@@ -43,17 +43,21 @@ virgool: [@shayanfpg9](https://virgool.io/@shayanfpg9/)
 
 <br>
 
-## today I foucs into **webpack** ![webpack](https://skillicons.dev/icons?i=webpack)
+## today I foucs into **react** ![react](https://skillicons.dev/icons?i=react)
 
 <br>
 
 ## I know:
 
-[![programming](https://skillicons.dev/icons?i=js,typescript,html,css,git,github,jquery,mysql,php,bootstrap,nodejs&perline=10)](https://skillicons.dev)
+[![programming](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,jquery,webpack,nodejs,mysql,php&perline=10)](https://skillicons.dev)
 
 <br>
 
 [![graphic](https://skillicons.dev/icons?i=photoshop,aftereffects,figma)](https://skillicons.dev)
+
+<br>
+
+[![tools](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
 <br>
 
