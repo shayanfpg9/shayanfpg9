@@ -43,7 +43,7 @@ virgool: [@shayanfpg9](https://virgool.io/@shayanfpg9/)
 
 <br>
 
-## today I foucs into **react** ![react](https://skillicons.dev/icons?i=react)
+## today I foucs into **react** <code>![react](https://skillicons.dev/icons?i=react)</code>
 
 <br>
 
