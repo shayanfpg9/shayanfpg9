@@ -49,15 +49,15 @@ virgool: [@shayanfpg9](https://virgool.io/@shayanfpg9/)
 
 ## I know:
 
-[![programming](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,jquery,webpack,nodejs,mysql,php&perline=10)](https://skillicons.dev)
+[![programming](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,jquery,webpack,nodejs,mongodb,express,styledcomponents,sass,gulp,md,react&perline=10)](https://skillicons.dev)
 
 <br>
 
-[![graphic](https://skillicons.dev/icons?i=photoshop,aftereffects,figma)](https://skillicons.dev)
+[![graphic](https://skillicons.dev/icons?i=ps,ae,figma)](https://skillicons.dev)
 
 <br>
 
-[![tools](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=vscode,git,github,postman,regex)](https://skillicons.dev)
 
 <br>
 
