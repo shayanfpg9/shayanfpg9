@@ -2,7 +2,7 @@
 
 </div>
 
-## about me:
+## About me:
 
 I'm a student of Hasheminezhad 4 high school;
 <br>
@@ -16,12 +16,7 @@ I have been learned new things with opensource :heart:
 
 <br>
 
-## in other networks
-virgool: [@shayanfpg9](https://virgool.io/@shayanfpg9/)
-
-<br>
-
-## you can contact me with:
+## You can contact me with:
 
 <div align="left">
   I love to meet new peoples :smile:
@@ -33,11 +28,13 @@ virgool: [@shayanfpg9](https://virgool.io/@shayanfpg9/)
   <a href="https://codepen.io/shayanfpg9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
+   <a href="https://discordapp.com/users/1077193475906338836" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&logoColor=white&color=5865F2&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a> 
 </div>
-
 <br>
 
-## today I foucs into **react** <code>![react](https://skillicons.dev/icons?i=react)</code>
+## Today I foucs into **react** <code>![react](https://skillicons.dev/icons?i=react)</code>
 
 <br>
 
@@ -54,10 +51,6 @@ virgool: [@shayanfpg9](https://virgool.io/@shayanfpg9/)
 [![tools](https://skillicons.dev/icons?i=vscode,git,github,postman,regex)](https://skillicons.dev)
 
 <br>
-
-## am I active ?
-
-you can decide about it with:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&username=shayanfpg9" height="150" alt="stats graph"  />
