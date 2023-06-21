@@ -44,7 +44,7 @@ I have been learned new things with opensource :heart:
 
 <br>
 
-[![graphic](https://skillicons.dev/icons?i=ps,ae,figma)](https://skillicons.dev)
+[![graphic](https://skillicons.dev/icons?i=ps,ai,figma)](https://skillicons.dev)
 
 <br>
 
