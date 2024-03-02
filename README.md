@@ -8,7 +8,7 @@ I'm a student of Hasheminezhad 4 high school;
 <br>
 I start programming when I was 11 years old,
 <br>
-but before that I worked with photoshop for 2 years,
+but before that I worked with photoshop for 5 years,
 <br>
 so I love computer and I love to connect all the ellectrical things together.
 <br>
@@ -40,7 +40,7 @@ I have been learned new things with opensource :heart:
 
 ## I know:
 
-[![programming](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,jquery,webpack,nodejs,mongodb,express,styledcomponents,sass,gulp,md,react&perline=10)](https://skillicons.dev)
+[![programming](https://skillicons.dev/icons?i=html,css,tailwind,next,bootstrap,js,typescript,jquery,webpack,nodejs,mongodb,express,styledcomponents,sass,gulp,md,react&perline=8)](https://skillicons.dev)
 
 <br>
 
