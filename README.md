@@ -19,7 +19,7 @@ I have been learned new things with opensource :heart:
 ## You can contact me with:
 
 <div align="left">
-  I love to meet new peoples :smile:
+  I love to meet new people :smile:
   <br>
   <br>
   <a href="mailto:shfqaen@gmail.com" target="_blank">
