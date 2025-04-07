@@ -1,58 +1,92 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=25&pause=1000&color=64FD02&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+%F0%9F%91%8B;I'm+shayan+a+front-end+developer)](https://git.io/typing-svg)
+<!-- GitHub Profile README -->
 
-</div>
+<h1 align="center">
+  Hey there 👋 I'm <span style="color:#64FD02;">Shayan</span>
+</h1>
 
-## About me:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=25&pause=1000&color=64FD02&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Front-End+Developer+%7C+UI%2FUX+Designer;React+Lover;Photoshop+Artist" alt="Typing SVG" />
+</p>
 
-I'm a student of Hasheminezhad 1 high school;
-<br>
-I start programming when I was 11 years old,
-<br>
-but before that I worked with photoshop for 2 years,
-<br>
-so I love computer and I love to connect all the ellectrical things together.
-<br>
-I have been learned new things with opensource :heart:
+---
 
-<br>
+## 🧠 About Me
 
-## You can contact me with:
+- 🎓 Student at **Hasheminezhad 1 High School**
+- 🧒 Started programming at **11 years old**
+- 🎨 Started with **Photoshop** at age 9 – still designing with love
+- 🧲 Love connecting electrical things + software = magic
+- ❤️ Learned a lot from **open-source** communities
 
-<div align="left">
-  I love to meet new people :smile:
-  <br>
-  <br>
-  <a href="mailto:shfqaen@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://codepen.io/shayanfpg9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-   <a href="https://discordapp.com/users/1077193475906338836" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&logoColor=white&color=5865F2&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a> 
-</div>
-<br>
+---
 
-## Today I foucs into **react** <code>![react](https://skillicons.dev/icons?i=react)</code>
+## 🎨 Designer Side of Me
 
-<br>
+I don't just code – I design. From UI/UX to graphic arts and branding.  
+Here’s where you can check out my work:
 
-## I know:
+- 🖼 Telegram Channel: [@allaboutshayan](https://t.me/allaboutshayan)  
+- 💬 Telegram ID: [@shayanfpg9](https://t.me/shayanfpg9)
 
-[![programming](https://skillicons.dev/icons?i=html,css,tailwind,next,bootstrap,js,typescript,jquery,webpack,nodejs,mongodb,express,styledcomponents,sass,gulp,md,react&perline=8)](https://skillicons.dev)
-
-<br>
+> 🧠 Tools I use for design:
+>
+> - Adobe Photoshop
+> - Illustrator
+> - Figma
 
 [![graphic](https://skillicons.dev/icons?i=ps,ai,figma)](https://skillicons.dev)
 
-<br>
+---
 
+## 💬 Contact Me
+
+<div align="left">
+  <a href="mailto:shfqaen@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://codepen.io/shayanfpg9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://discordapp.com/users/1077193475906338836" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://t.me/shayanfpg9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=29A9EA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Programming & Front-End  
+[![programming](https://skillicons.dev/icons?i=html,css,tailwind,next,bootstrap,js,ts,jquery,webpack,nodejs,mongodb,express,styledcomponents,sass,gulp,md,react&perline=8)](https://skillicons.dev)
+
+### 🧰 Tools I Use  
 [![tools](https://skillicons.dev/icons?i=vscode,git,github,postman,regex)](https://skillicons.dev)
 
-<br>
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&username=shayanfpg9" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=shayanfpg9" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shayanfpg9&show_icons=true&theme=radical&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanfpg9&layout=compact&theme=radical&langs_count=8&hide_border=false" height="180" />
 </div>
+
+---
+
+## 🧩 Fun Fact
+
+> "I don’t just code – I *design* it first in my mind. Every project starts with creativity, not just syntax."
+
+---
+
+### 🏁 Let’s Connect & Collaborate
+
+Whether you need a **frontend wizard**, a **UI/UX designer**, or just wanna talk tech,  
+I’d love to connect and build something cool together 🚀
+
+---
+
+✨ Made with ❤️ by **Shayan** | از ایران 🇮🇷
